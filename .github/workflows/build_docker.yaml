@@ -8,7 +8,7 @@ env:
   TEST: test
   TEST2: test2
   USER: bchelmicki@gmail.com
-  REPO: training_GitHubActions_start
+  REPO: training_githubactions_start
 jobs:
   build:
     env:
